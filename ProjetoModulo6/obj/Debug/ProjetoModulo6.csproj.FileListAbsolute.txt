@@ -1,0 +1,20 @@
+c:\users\gilse\documents\visual studio 2015\Projects\ProjetoModulo6\ProjetoModulo6\bin\Debug\ProjetoModulo6.exe.config
+c:\users\gilse\documents\visual studio 2015\Projects\ProjetoModulo6\ProjetoModulo6\bin\Debug\ProjetoModulo6.exe
+c:\users\gilse\documents\visual studio 2015\Projects\ProjetoModulo6\ProjetoModulo6\bin\Debug\ProjetoModulo6.pdb
+c:\users\gilse\documents\visual studio 2015\Projects\ProjetoModulo6\ProjetoModulo6\obj\Debug\ProjetoModulo6.csprojResolveAssemblyReference.cache
+c:\users\gilse\documents\visual studio 2015\Projects\ProjetoModulo6\ProjetoModulo6\obj\Debug\ProjetoModulo6.Form1.resources
+c:\users\gilse\documents\visual studio 2015\Projects\ProjetoModulo6\ProjetoModulo6\obj\Debug\ProjetoModulo6.Properties.Resources.resources
+c:\users\gilse\documents\visual studio 2015\Projects\ProjetoModulo6\ProjetoModulo6\obj\Debug\ProjetoModulo6.csproj.GenerateResource.Cache
+c:\users\gilse\documents\visual studio 2015\Projects\ProjetoModulo6\ProjetoModulo6\obj\Debug\ProjetoModulo6.exe
+c:\users\gilse\documents\visual studio 2015\Projects\ProjetoModulo6\ProjetoModulo6\obj\Debug\ProjetoModulo6.pdb
+C:\Users\user\source\repos\ProjetoModulo6\ProjetoModulo6\bin\Debug\ProjetoModulo6.exe.config
+C:\Users\user\source\repos\ProjetoModulo6\ProjetoModulo6\bin\Debug\ProjetoModulo6.exe
+C:\Users\user\source\repos\ProjetoModulo6\ProjetoModulo6\bin\Debug\ProjetoModulo6.pdb
+C:\Users\user\source\repos\ProjetoModulo6\ProjetoModulo6\obj\Debug\ProjetoModulo6.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ProjetoModulo6\ProjetoModulo6\obj\Debug\ProjetoModulo6.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\ProjetoModulo6\ProjetoModulo6\obj\Debug\ProjetoModulo6.Form1.resources
+C:\Users\user\source\repos\ProjetoModulo6\ProjetoModulo6\obj\Debug\ProjetoModulo6.Properties.Resources.resources
+C:\Users\user\source\repos\ProjetoModulo6\ProjetoModulo6\obj\Debug\ProjetoModulo6.csproj.GenerateResource.cache
+C:\Users\user\source\repos\ProjetoModulo6\ProjetoModulo6\obj\Debug\ProjetoModulo6.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ProjetoModulo6\ProjetoModulo6\obj\Debug\ProjetoModulo6.exe
+C:\Users\user\source\repos\ProjetoModulo6\ProjetoModulo6\obj\Debug\ProjetoModulo6.pdb

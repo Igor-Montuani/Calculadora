@@ -1,0 +1,11 @@
+C:\Users\user\Source\Repos\Igor-Montuani\Calculadora\ProjetoModulo6\bin\Debug\ProjetoModulo6.exe.config
+C:\Users\user\Source\Repos\Igor-Montuani\Calculadora\ProjetoModulo6\bin\Debug\ProjetoModulo6.exe
+C:\Users\user\Source\Repos\Igor-Montuani\Calculadora\ProjetoModulo6\bin\Debug\ProjetoModulo6.pdb
+C:\Users\user\Source\Repos\Igor-Montuani\Calculadora\ProjetoModulo6\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\user\Source\Repos\Igor-Montuani\Calculadora\ProjetoModulo6\obj\Debug\Calculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Source\Repos\Igor-Montuani\Calculadora\ProjetoModulo6\obj\Debug\ProjetoModulo6.frmPrincipal.resources
+C:\Users\user\Source\Repos\Igor-Montuani\Calculadora\ProjetoModulo6\obj\Debug\ProjetoModulo6.Properties.Resources.resources
+C:\Users\user\Source\Repos\Igor-Montuani\Calculadora\ProjetoModulo6\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\user\Source\Repos\Igor-Montuani\Calculadora\ProjetoModulo6\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\Igor-Montuani\Calculadora\ProjetoModulo6\obj\Debug\ProjetoModulo6.exe
+C:\Users\user\Source\Repos\Igor-Montuani\Calculadora\ProjetoModulo6\obj\Debug\ProjetoModulo6.pdb
